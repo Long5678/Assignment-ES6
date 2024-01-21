@@ -1,0 +1,246 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "HyperX"
+    },
+    {
+      "id": "2",
+      "name": "Logitech"
+    },
+    {
+      "id": "3",
+      "name": "JBl"
+    },
+    {
+      "id": "4",
+      "name": "Dareu"
+    }
+  ],
+  "product": [
+    {
+      "cate_id": "1",
+      "detail": "Một chiếc tai nghe gaming với âm thanh sống động, một chiếc tai nghe không dây có phạm vi lên đến hơn 15m",
+      "id": 1,
+      "image": "https://product.hstatic.net/200000722513/product/hinh-1-white_46ed6d32fabf4f7b99d0604dfc4887ae_fc48ed6a87d74cb1aa3992e3258552b8_1024x1024.gif",
+      "name": "Tai nghe HP HyperX Cloud III Wireless Black",
+      "price": 3890000
+    },
+    {
+      "cate_id": "1",
+      "detail": "HyperX Cloud Earbuds II Red dòng tai nghe máy tính với nhiều cải tiếng mạnh mẽ về thiết kế, hệ thống âm thanh được xử lý chỉnh chu mang đến tai người chơi chất âm vô cùng chất lượng",
+      "id": 2,
+      "image": "https://product.hstatic.net/200000722513/product/hinh_f79a47228bed4171bec6eed36db726c3_4dbc10328d744db680b62b38755bf952_1024x1024.gif",
+      "name": "Tai nghe HP HYPERX Cloud Earbuds II Red",
+      "price": 990000
+    },
+    {
+      "cate_id": "1",
+      "detail": " ",
+      "id": 3,
+      "image": "https://product.hstatic.net/200000722513/product/hinh-1_06b4ca8ba58943b19ace76203ecc8b01_db698b18b73a43a7955f45f105ba989e_grande.gif",
+      "name": "Tai nghe HP HyperX Cloud III Black",
+      "price": 2890000
+    },
+    {
+      "cate_id": "1",
+      "detail": " ",
+      "id": 4,
+      "image": "https://product.hstatic.net/200000722513/product/hinh-1_06b4ca8ba58943b19ace76203ecc8b01_db698b18b73a43a7955f45f105ba989e_1024x1024.gif",
+      "name": "Tai nghe HP HyperX Cloud III Black",
+      "price": 2890000
+    },
+    {
+      "cate_id": "1",
+      "detail": "HyperX Cloud Alpha™ S phát triển từ chiếc tai nghe gaming giá rẻ đột phá Cloud Alpha và trang bị âm thanh vòm ảo HyperX 7.1.",
+      "id": 5,
+      "image": "https://product.hstatic.net/200000722513/product/hyperx_cloud_alpha_s_blue-gearvn-2_2d696e63f68346cdbe2066eb0c13c03b_97639c992fa8471dadea2575ee1f0081_1024x1024.jpg",
+      "name": "Tai nghe Kingston HyperX Cloud Alpha S Blue",
+      "price": 2390000
+    },
+    {
+      "cate_id": "2",
+      "detail": "Tai nghe Logitech G733 Lightspeed RGB Màu đen được tích hợp Mircro chống ồn.",
+      "id": 6,
+      "image": "https://product.hstatic.net/200000722513/product/ch-g733-lightspeed-wireless-black-666_2eb1a71d562e4a6d853a0f086723cbe3_f7f15fa3c25c4d6190c05c6db168fbf7_1024x1024.png",
+      "name": "Tai nghe không dây Logitech G733 Lightspeed RGB Màu đen",
+      "price": 2690000
+    },
+    {
+      "cate_id": "2",
+      "detail": "Lắng nghe kẻ thù đang ẩn nấp xung quanh, các tín hiệu về khả năng đặc biệt và mọi thứ khác quanh bạn. Hoàn toàn đắm chìm vào không gian trò chơi và nghe toàn bộ nhạc nền hùng tráng.",
+      "id": 7,
+      "image": "https://mega.com.vn/media/product/25921_tai_nghe_logitech_g_pro_x_2_lightspeed_wireless_black_2.jpg",
+      "name": "Tai nghe Logitech G Pro X 2 LightSpeed Wireless Black",
+      "price": 4090000
+    },
+    {
+      "cate_id": "2",
+      "detail": "Chơi game, phát âm nhạc và chơi đùa cùng bạn bè. Tai nghe chơi game G435 kết nối với máy tính, điện thoại và các thiết bị khác của bạn thông qua công nghệ không dây LIGHTSPEED cấp độ chơi game và Bluetooth®.",
+      "id": 8,
+      "image": "https://product.hstatic.net/200000722513/product/tech-g435-lightspeed-wireless-white-1_9af011ebd64e4a7990c4747a3576a909_041ae18de1764e3b96bf687d649c0c6c_1024x1024.jpg",
+      "name": "Tai nghe không dây Logitech G435 Bluetooth",
+      "price": 1390000
+    },
+    {
+      "cate_id": "2",
+      "detail": " ",
+      "id": 9,
+      "image": "https://lh3.googleusercontent.com/yidG_Ly1BmJJ89m56OHss_n8SK9wdA24AYVqJU8SzPYESqDeq-FrYg0aDJOlKEig6dHbpDoCP-ZvPKAB5l1TSw7zrgM3czpK=w500-rw",
+      "name": "Tai nghe không dây Logitech G733 Lightspeed RGB Màu tím",
+      "price": 3090000
+    },
+    {
+      "cate_id": "2",
+      "detail": "Tai nghe chơi game G331 của Logitech tạo ra âm thanh lớn để giúp bạn nhanh chóng hòa nhập vào trò chơi. Trải nghiệm cảm giác chơi game hoàn toàn thú vị khi bạn nghe được mọi thứ và mọi người đều nghe thấy bạn.",
+      "id": 10,
+      "image": "https://product.hstatic.net/200000722513/product/gvn_log_g331_84c98419c68c422a92eb2ee5a955cba9_2237e2d582c346f3aafc0d4b8987f150_1024x1024.png",
+      "name": "Tai nghe Gaming Logitech có dây G331 Đen",
+      "price": 990000
+    },
+    {
+      "cate_id": "3",
+      "detail": " ",
+      "id": 11,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-jbl-live-670nc_6__1.png",
+      "name": "Tai nghe Bluetooth chụp tai JBL Live 670NC Đen",
+      "price": 2990000
+    },
+    {
+      "cate_id": "3",
+      "detail": " ",
+      "id": 12,
+      "image": "https://cello.vn/image/cache/catalog/Cello/SanPham/Tai%20Nghe/JBL/T510BT/T510BT_Pink_1-500x500.jpg",
+      "name": "Tai nghe có khung trùm đầu JBL T510 BT BLU",
+      "price": 1390000
+    },
+    {
+      "cate_id": "3",
+      "detail": " ",
+      "id": 13,
+      "image": "https://product.hstatic.net/200000722513/product/l1003852_aaba305d66d54241b24b0bf7558122ff_9018e65c08a341fa9487cec1bfd57342_1024x1024.jpg",
+      "name": "Tai nghe JBL QUANTUM 400",
+      "price": 1790000
+    },
+    {
+      "cate_id": "3",
+      "detail": " ",
+      "id": 14,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/6/1/617jiyt061l._sl1500_.jpg",
+      "name": "Tai nghe JBL ENDURANCE PEAK Đen",
+      "price": 3150000
+    },
+    {
+      "cate_id": "3",
+      "detail": " ",
+      "id": 15,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:80/plain/https://cellphones.com.vn/media/catalog/product/j/b/jbl-relfect-flow-3kshop-5.jpg",
+      "name": "Tai nghe JBL REFLECT FLOW (Đen)",
+      "price": 3050000
+    },
+    {
+      "cate_id": "4",
+      "detail": " ",
+      "id": 16,
+      "image": "https://mega.com.vn/media/product/24947_tai_nghe_dareu_eh745x_black_18.jpg",
+      "name": "Tai nghe DAREU EH745X Black",
+      "price": 860000
+    },
+    {
+      "cate_id": "4",
+      "detail": " ",
+      "id": 17,
+      "image": "https://anphat.com.vn/media/product/44607_dareu_a710_white.png",
+      "name": "Tai nghe DAREU A710 RGB Wireless",
+      "price": 1750000
+    },
+    {
+      "cate_id": "4",
+      "detail": " ",
+      "id": 18,
+      "image": "https://dareu.com.vn/wp-content/uploads/2021/04/tai-nghe-gaming-eh722x-02-600x600.png",
+      "name": "Tai nghe DAREU EH722X",
+      "price": 550000
+    },
+    {
+      "cate_id": "4",
+      "detail": " ",
+      "id": 19,
+      "image": "https://product.hstatic.net/200000722513/product/n-tai-nghe-dareu-eh722x-7-1-black-666_b52e47ea70be411bb8d8eb894e254934_a77f91fa66874b2c914e7b7aa33adcde_1024x1024.jpg",
+      "name": "Tai nghe Gaming DAREU EH722X 7.1 RGB",
+      "price": 590000
+    },
+    {
+      "cate_id": "4",
+      "detail": " ",
+      "id": 20,
+      "image": "https://product.hstatic.net/200000722513/product/gearvn-tai-nghe-dareu-eh416-rgb-1_50b1586d8678429aaee7922ec536c3f3_418f44656d36414e8b56e8c62927e5c7_1024x1024.png",
+      "name": "Tai nghe DAREU EH416 RGB",
+      "price": 350000
+    }
+  ],
+  "order": [
+    {
+      "id": "1",
+      "customer_name": "Nguyễn Văn A",
+      "customer_address": "43 Nguyễn Chí Thanh, Hải Phòng",
+      "customer_email": "nguyenvana@email.com",
+      "customer_phone_number": "025415282",
+      "created_date": "28/06/2023",
+      "status": "Đã thanh toán"
+    },
+    {
+      "id": "2",
+      "customer_name": "Ngô văn B",
+      "customer_address": "22 Phạm Cự Lượng, Đà Nẵng",
+      "customer_email": "ngovanb@email.com",
+      "customer_phone_number": "08567482",
+      "created_date": "28/12/2023",
+      "status": "Chưa thanh toán"
+    },
+    {
+      "id": "3",
+      "customer_name": "Hoàng Văn C",
+      "customer_address": "20 Lê Quang Đạo, Hồ Chí Minh",
+      "customer_email": "hoangvanc@email.com",
+      "customer_phone_number": "097856648",
+      "created_date": "15/02/2023",
+      "status": "Đã thanh toán"
+    },
+    {
+      "id": "4",
+      "customer_name": "Lê Thị Quỳnh D",
+      "customer_address": "105 Hà Huy Tập, Đà Nẵng",
+      "customer_email": "lethiquynhd@email.com",
+      "customer_phone_number": "08808758",
+      "created_date": "14/12/2023",
+      "status": "Chưa thanh toán"
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": "1",
+      "product_id": "13",
+      "quantity": "2",
+      "unit_price": 3580000
+    },
+    {
+      "order_id": "2",
+      "product_id": "1",
+      "quantity": "1",
+      "unit_price": 3890000
+    },
+    {
+      "order_id": "3",
+      "product_id": "3",
+      "quantity": "1",
+      "unit_price": 2890000
+    },
+    {
+      "order_id": "4",
+      "product_id": "10",
+      "quantity": "2",
+      "unit_price": 1980000
+    }
+  ]
+}
