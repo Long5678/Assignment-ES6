@@ -222,6 +222,7 @@ const renderProducts = () => {
     .join("");
 };
 
+
 //* api functions
 
 const loadProducts = async (apiURL) => {
